@@ -1,6 +1,6 @@
 # Tech_Blog    
 
-[![Project Preview video](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://www.youtube.com/watch?v=URMQq3XWlSg)   
+[![Project Preview video](https://img.shields.io/badge/Project-Preview-blue?style=for-the-badge)](https://www.youtube.com/watch?v=URMQq3XWlSg)   
 
 ![photo-1499750310107-5fef28a66643](https://github.com/samagra44/Tech_Blog/assets/77968722/1daf9b88-e8bc-4110-9969-ec9004280d6d)    
 
