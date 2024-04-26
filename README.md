@@ -1,4 +1,6 @@
-# Tech_Blog
+# Tech_Blog    
+
+[![Project Preview video](https://img.shields.io/badge/Visit-Website-blue?style=for-the-badge)](https://www.youtube.com/watch?v=URMQq3XWlSg)   
 
 ![photo-1499750310107-5fef28a66643](https://github.com/samagra44/Tech_Blog/assets/77968722/1daf9b88-e8bc-4110-9969-ec9004280d6d)    
 
@@ -23,5 +25,3 @@ For Backend Work :
 4. JSP (Java Server Pages) 
 5. JSTL (Java Standard Tag Library) 
 6. MYSQL
-
-Project Preview video - https://www.youtube.com/watch?v=URMQq3XWlSg 
